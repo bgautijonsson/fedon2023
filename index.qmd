@@ -2,7 +2,7 @@
 title: FEDON
 subtitle: "General Meeting 2023"
 date: 2023/05/16
-author: Union of PhD students and Post-doc researchers at the University of Iceland
+author: Félag doktorsnema og nýdoktora<br>Union of PhD students and Post-doc researchers at the University of Iceland
 format: 
     revealjs:
         theme: theme.scss
@@ -13,7 +13,6 @@ execute:
     echo: false
     warning: false
     error: false
-fig-align: center
 slide-number: false
 logo: figures/fedon_logo.jpg
 ---
@@ -25,7 +24,29 @@ logo: figures/fedon_logo.jpg
     - Facebook: [https://www.facebook.com/FedonHI](https://www.facebook.com/FedonHI)
     - Twitter: [](https://twitter.com/FedonHI)
     - Email: fedon@hi.is
+    
+## Board Positions
+
+* Representative in the union (Félag Háskólakennara)
+* Representative at the Student Council
+* Representative at the Graduate School (Miðstöð Framhaldsnáms)
+* Representative at the Science Board
+* Manage our web page and social media
+* Treasurer
+* Secretary
+* Chairperson
+
+## Annal 2022 - 2023
+
+* Held seven meetings
+* Held two (small) social gatherings
+* Main issues
+    - University of Iceland Doctoral Grants
+    - Student Loan System
+    - Better working conditions for Postdocs
+    - [Opinion piece together with Hugdok, Menntadoc and Seigla criticizing austerity measures at the University](https://www.visir.is/g/20232404316d/adhaldsadgerdir-ogna-nylidun-innan-haskolasamfelagsins-rannsoknum-og-thekkingarskopun-a-islandi)
+
 
 ## Financial Statement
 
-![](figures/finstatement.png)
+![](figures/finstatement.png){.r-stretch}

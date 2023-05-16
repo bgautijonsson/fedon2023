@@ -49,22 +49,13 @@ $link-color-hover:              $darkblue;
     color: $primary;
 }
 
-.reveal p.subtitle {
-    color: #252525;
-    font-size: $font-size-base * 3;
-}
-
-.reveal p.author {
-    color: #023047;
-}
-
-.reveal p.institute {
-    color: #023047;
-}
-
 .reveal a {
     color: $primary;
     text-align: middle;
+}
+
+.quarto-title-author-name {
+  font-size: 3.5vw;
 }
 
 .quarto-title > h1.title {
