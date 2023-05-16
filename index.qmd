@@ -55,7 +55,7 @@ logo: figures/fedon_logo.jpg
 * Umbrella organisation for PhD and Post-doc students at the University of Iceland
 * Your helping hand if you need it
     - Facebook: [https://www.facebook.com/FedonHI](https://www.facebook.com/FedonHI)
-    - Twitter: [](https://twitter.com/FedonHI)
+    - Twitter: [https://twitter.com/FedonHI](https://twitter.com/FedonHI)
     - Email: fedon@hi.is
     
 ## Board Positions
