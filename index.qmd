@@ -2,7 +2,7 @@
 title: FEDON
 subtitle: "General Meeting 2023"
 date: 2023/05/16
-author: Félag doktorsnema og nýdoktora<br>Union of PhD students and Post-doc researchers at the University of Iceland
+author: Félag doktorsnema og nýdoktora<br>Association of PhD students and Post-doc researchers at the University of Iceland
 format: 
     revealjs:
         theme: theme.scss
@@ -16,6 +16,39 @@ execute:
 slide-number: false
 logo: figures/fedon_logo.jpg
 ---
+
+## Schedule
+
+<br>
+
+* **Elect a moderator**
+* Elect a note-taker
+* About FEDON
+* Annal of 2022 - 2023
+* Election of new board
+* Other matters
+
+## Schedule
+
+<br>
+
+* Elect a moderator
+* **Elect a note-taker**
+* About FEDON
+* Annal of 2022 - 2023
+* Election of new board
+* Other matters
+
+## Schedule
+
+<br>
+
+* Elect a moderator
+* Elect a note-taker
+* **About FEDON**
+* Annal of 2022 - 2023
+* Election of new board
+* Other matters
 
 ## What is FEDON?
 
@@ -36,10 +69,21 @@ logo: figures/fedon_logo.jpg
 * Secretary
 * Chairperson
 
+## Schedule
+
+<br>
+
+* Elect a moderator
+* Elect a note-taker
+* About FEDON
+* **Annal of 2022 - 2023**
+* Election of new board
+* Other matters
+
 ## Annal 2022 - 2023
 
 * Held seven meetings
-* Held two (small) social gatherings
+* Held two social gatherings
 * Main issues
     - University of Iceland Doctoral Grants
     - Student Loan System
@@ -50,3 +94,37 @@ logo: figures/fedon_logo.jpg
 ## Financial Statement
 
 ![](figures/finstatement.png){.r-stretch}
+
+## Schedule
+
+<br>
+
+* Elect a moderator
+* Elect a note-taker
+* About FEDON
+* Annal of 2022 - 2023
+* **Election of new board**
+* Other matters
+
+## Board Positions
+
+* Representative in the union (Félag Háskólakennara)
+* Representative at the Student Council
+* Representative at the Graduate School (Miðstöð Framhaldsnáms)
+* Representative at the Science Board
+* Manage our web page and social media
+* Treasurer
+* Secretary
+* Chairperson
+
+
+## Schedule
+
+<br>
+
+* Elect a moderator
+* Elect a note-taker
+* About FEDON
+* Annal of 2022 - 2023
+* Election of new board
+* **Other matters**
