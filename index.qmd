@@ -1,0 +1,31 @@
+---
+title: FEDON
+subtitle: "General Meeting 2023"
+date: 2023/05/16
+author: Union of PhD students and Post-doc researchers at the University of Iceland
+format: 
+    revealjs:
+        theme: theme.scss
+        slide-number: true
+        view-distance: 5
+        auto-stretch: true
+execute:
+    echo: false
+    warning: false
+    error: false
+fig-align: center
+slide-number: false
+logo: figures/fedon_logo.jpg
+---
+
+## What is FEDON?
+
+* Umbrella organisation for PhD and Post-doc students at the University of Iceland
+* Your helping hand if you need it
+    - Facebook: [https://www.facebook.com/FedonHI](https://www.facebook.com/FedonHI)
+    - Twitter: [](https://twitter.com/FedonHI)
+    - Email: fedon@hi.is
+
+## Financial Statement
+
+![](figures/finstatement.png)
